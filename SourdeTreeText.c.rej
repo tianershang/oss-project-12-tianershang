@@ -1,0 +1,11 @@
+diff a/SourdeTreeText.c b/SourdeTreeText.c	(rejected hunks)
+@@ -0,0 +1,9 @@
++#include <stdio.h>
++
++int main()
++{
++
++	printf("tianershang");
++
++	return 0;
++}
